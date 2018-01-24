@@ -11,4 +11,3 @@ Instructions for students:
 6. Go back to the original `todo.txt` and make a new branch called `planB`. Add some tasks to the file and make a commit.
 7. Merge the two branches back together. Fix any merge conflicts.
 8. Make a pull request against my master branch. 
-<Oops! Made a mistake here>
